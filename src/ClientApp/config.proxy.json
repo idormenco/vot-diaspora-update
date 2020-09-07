@@ -1,6 +1,6 @@
 {
     "/api/*": {
-      "target": "https://votromania.azurewebsites.net",
+      "target": "http://staging.votdiaspora.ro",
       "secure": false,
       "logLevel": "debug",
       "changeOrigin": true
