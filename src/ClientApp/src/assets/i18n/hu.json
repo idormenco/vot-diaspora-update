@@ -3,7 +3,7 @@
 	"nav_about": "Rólunk",
 	"guide_title": "Válaszd ki azt a választ ami legjobban illik a helyzetedhez",
 	"guide_into": "La alegerile parlamentare își exercită dreptul de vot în afara țării doar cetățenii români cu domiciliul sau reședința în străinătate. Află ce ai de făcut pentru a putea vota în țara în care ai domiciliu sau reședința la alegerile parlamentare din 6 decembrie 2020.",
-	"vot_romania": "Pe 27 septembrie au loc alegeri locale în România. Cetățenii care locuiesc în diaspora sau se află în diaspora în tranzit în momentul alegerilor nu pot să își exprime votul, acest lucru fiind posibil doar pentru cetățenii care se află pe teritoriul României în aria circumscripției la care este arondată adresa lor de domiciliu. Dacă ai rude în țară, atunci încurajează-i să folosească Vot România pentru a afla în ce condiții pot să voteze, de ce documente au nevoie și unde se află secția la care sunt arondați.",
+	"vot_romania": "Pe 27 septembrie au loc alegeri locale în România. Cetățenii care locuiesc în diaspora sau se află în diaspora în tranzit în momentul alegerilor nu pot să își exprime votul, acest lucru fiind posibil doar pentru cetățenii care se află pe teritoriul României în aria circumscripției la care este arondată adresa lor de domiciliu. Dacă ai rude în țară, atunci încurajează-i să folosească <a href='https://votromania.ro/' target='_blank' rel='noopener' rel='noreferrer'>Vot România</a> pentru a afla în ce condiții pot să voteze, de ce documente au nevoie și unde se află secția la care sunt arondați.",
 	"votersGuide": {
 		"callToAction": "Válassz egyet az alábbi opciókból",
 		"label0": "Román állampolgár vagy?",

@@ -3,7 +3,8 @@
 	"nav_about": "Despre",
 	"guide_title": "Selectează din opțiunile de mai jos ce ți se potrivește",
 	"guide_into": "La alegerile parlamentare își exercită dreptul de vot în afara țării doar cetățenii români cu domiciliul sau reședința în străinătate. Află ce ai de făcut pentru a putea vota în țara în care ai domiciliu sau reședința la alegerile parlamentare din 6 decembrie 2020. ",
-	"vot_romania": "Pe 27 septembrie au loc alegeri locale în România. Cetățenii care locuiesc în diaspora sau se află în diaspora în tranzit în momentul alegerilor nu pot să își exprime votul, acest lucru fiind posibil doar pentru cetățenii care se află pe teritoriul României în aria circumscripției la care este arondată adresa lor de domiciliu. Dacă ai rude în țară, atunci încurajează-i să folosească Vot România pentru a afla în ce condiții pot să voteze, de ce documente au nevoie și unde se află secția la care sunt arondați.",
+	"vot_romania_1": "Pe 27 septembrie au loc alegeri locale în România. Cetățenii care locuiesc în diaspora sau se află în diaspora în tranzit în momentul alegerilor nu pot să își exprime votul, acest lucru fiind posibil doar pentru cetățenii care se află pe teritoriul României în aria circumscripției la care este arondată adresa lor de domiciliu. Dacă ai rude în țară, atunci încurajează-i să folosească",
+	"vot_romania_2": " pentru a afla în ce condiții pot să voteze, de ce documente au nevoie și unde se află secția la care sunt arondați.",
 	"votersGuide": {
 		"callToAction": "Începe prin a alege una din opțiunile de mai jos",
 		"label0": "Ești cetățean român",
