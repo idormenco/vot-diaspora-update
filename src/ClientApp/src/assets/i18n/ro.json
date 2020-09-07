@@ -2,6 +2,8 @@
 	"donate": "Donează",
 	"nav_about": "Despre",
 	"guide_title": "Selectează din opțiunile de mai jos ce ți se potrivește",
+	"guide_into": "La alegerile parlamentare își exercită dreptul de vot în afara țării doar cetățenii români cu domiciliul sau reședința în străinătate. Află ce ai de făcut pentru a putea vota în țara în care ai domiciliu sau reședința la alegerile parlamentare din 6 decembrie 2020. ",
+	"vot_romania": "Pe 27 septembrie au loc alegeri locale în România. Cetățenii care locuiesc în diaspora sau se află în diaspora în tranzit în momentul alegerilor nu pot să își exprime votul, acest lucru fiind posibil doar pentru cetățenii care se află pe teritoriul României în aria circumscripției la care este arondată adresa lor de domiciliu. Dacă ai rude în țară, atunci încurajează-i să folosească Vot România pentru a afla în ce condiții pot să voteze, de ce documente au nevoie și unde se află secția la care sunt arondați.",
 	"votersGuide": {
 		"callToAction": "Începe prin a alege una din opțiunile de mai jos",
 		"label0": "Ești cetățean român",
@@ -38,31 +40,30 @@
 	},
 	"back_button": "Înapoi",
 	"back_to_start_button": "Înapoi la început",
-	"introduction": "Pe 27 septembrie au loc alegeri locale în România. Românii și cetățenii altor state din Uniunea Europeană cu domiciliul sau reședința pe teritoriul României au dreptul de a-și alege primarii, consilierii locali și consilierii județeni. Descoperă cu ajutorul Vot România unde poți vota, în ce condiții și care sunt actele de care ai nevoie pentru a face acest lucru.",
+	"introduction": "Pe data de 6 decembrie 2020 au loc alegerile parlamentare din România. Cetățenii români cu drept de vot care au domiciliul sau reședința în străinătate pot vota la secție sau prin corespondență. Pentru a afla care sunt pașii pe care trebuie să îi parcurgeți pentru a putea alege în cadrul acestui tur electoral, consultați ghidul de mai jos.",
 	"about": {
 		"title": "Despre proiect",
-		"p1": "Vot România este o platformă care simplifică pe înțelesul cetățenilor ghidul electoral al alegerilor locale, care vor avea loc la finalul lunii septembrie 2020. Vot România este cel de-al patrulea proiect pe care Code for Romania îl realizează pentru a facilita accesul cetățenilor la informație și a ajuta la o mai mare transparență a procesului electoral.",
-		"p21": "Accesând",
-		"p22": "toți cetățenii vor putea să verifice, alături de documentele și procedurile necesare pentru a vota și care este secția la care sunt arondați în funcție de statutul fiecăruia. Website-ul va fi disponibil cu informații actualizate la fiecare nouă rundă electorală. Conținutul prezent pe platforma Vot România este realizat în parteneriat cu experții electorali ai Observatorului Electoral.",
-		"p31": "Vot România face parte din ecosistemul electoral dezvoltat de voluntarii Code for Romania, fiind cea de-a patra aplicație dedicată procesului electoral din țara noastră. Monitorizare Vot este aplicația web și mobilă dedicată observatorilor electorali independenți - prima aplicație de monitorizare electorală din România, fiind și cea mai utilizată de acest tip la nivel global. Lansată în 2016 aceasta a fost folosită la toate rundele electorale din ultimii patru ani și a fost preluată inclusiv în Polonia, în 2018, în cadrul primelor alegeri monitorizate independent în statul polonez. A doua aplicație din ecosistem este Vot Diaspora, o aplicație web destinată românilor de peste hotare pentru a le oferi sprijin pe durata alegerilor pentru a descoperi unde pot vota și de ce documente au nevoie sau ce proceduri trebuie să parcurgă pentru a vota. La alegerile Europarlamentare din 2019, aplicația a fost utilizată de 25% din totalul alegătorilor din diaspora, iar la ultima rundă a alegerilor prezidențiale, 185.000 alegători s-au informat prin",
-		"p32": "A treia soluție este Rezultate Vot, website lansat în 2019 cu ocazia alegerilor europarlamentare - o platformă care arată în timp real prezența la vot și rezultatele alegerilor. Din anul 2020 platforma va cuprinde și întregul istoric electoral post-decembrist și alte funcționalități în premieră pentru România, fiind nu doar locul unde vor putea fi aflate cel mai rapid și ușor rezultatele alegerilor, ci și un bun instrument de analiză comparativă a datelor.",
-		"p4": "Toate aplicațiile din ecosistemul dedicat alegerilor sunt dezvoltate pro bono de către voluntarii Code for Romania în cadrul Civic Labs, unul dintre programele prin care asociația proiectează soluții de tehnologie civică pentru probleme din șase domenii-cheie pentru societatea românească - educație, sănătate, mediu, grupuri vulnerabile, transparență și implicare civică.",
+		"p1": "Vot Diaspora este o platformă care simplifică pe înțelesul cetățenilor ghidul electoral al alegerilor parlamentare, care vor avea loc la pe 6 decembrie 2020. Vot Diaspora este primul proiect pe care Code for Romania l-a construit, începând cu anul 2016,  pentru a facilita accesul cetățenilor români de peste hotare la informație și a ajuta la o mai mare transparență a procesului electoral. La alegerile europarlamentare din 2019, aplicația a fost utilizată de 25% din totalul alegătorilor din diaspora, iar la ultima rundă a alegerilor prezidențiale, 185.000 alegători s-au informat prin votdiaspora.ro ",
+		"p2": "Accesând votdiaspora.ro, toți cetățenii vor putea să verifice, alături de documentele și procedurile necesare pentru a vota la secție sau prin corespondență dacă se află în afara țării și care este secția la care sunt arondați în funcție de statutul fiecăruia. Website-ul va fi disponibil cu informații actualizate la fiecare nouă rundă electorală. Conținutul prezent pe platforma Vot Diaspora este realizat în parteneriat cu experții electorali ai Observatorului Electoral.",
+		"p3": "Vot Diaspora face parte din ecosistemul electoral dezvoltat de voluntarii Code for Romania, fiind cea de-a patra aplicație dedicată procesului electoral din țara noastră. Monitorizare Vot este aplicația web și mobilă dedicată observatorilor electorali independenți - prima aplicație de monitorizare electorală din România, fiind și cea mai utilizată de acest tip la nivel global. Lansată în 2016 aceasta a fost folosită la toate rundele electorale din ultimii patru ani și a fost preluată inclusiv în Polonia, în 2018, în cadrul primelor alegeri monitorizate independent în statul polonez. A doua aplicație din ecosistem este Vot România, o aplicație web destinată românilor din țară pentru a le oferi sprijin pe durata alegerilor pentru a descoperi unde pot vota, de ce documente au nevoie sau ce proceduri trebuie să parcurgă pentru a vota. A treia soluție este Rezultate Vot, website lansat în 2019 cu ocazia alegerilor europarlamentare - o platformă care arată în timp real prezența la vot și rezultatele alegerilor. Din anul 2020 platforma va cuprinde și întregul istoric electoral post-decembrist și alte funcționalități în premieră pentru România, fiind nu doar locul unde vor putea fi aflate cel mai rapid și ușor rezultatele alegerilor, ci și un bun instrument de analiză comparativă a datelor.",
+		"p4.1": "Toate aplicațiile din ecosistemul dedicat alegerilor sunt dezvoltate pro bono de către voluntarii Code for Romania în cadrul",
+		"p4.2": "unul dintre programele prin care asociația proiectează soluții de tehnologie civică pentru probleme din șase domenii-cheie pentru societatea românească - educație, sănătate, mediu, grupuri vulnerabile, transparență și implicare civică.",
 		"p5.1": "Code for Romania este o organizație non-profit care dezvoltă pro bono soluții digitale pentru a rezolva probleme sociale. Înființată în anul 2016, Code for Romania a ajuns în prezent la o comunitate de peste 1700 de voluntari din sectorul IT care au dezvoltat zeci de aplicații web și mobile pentru România, precum cele din ecosistemul Covid-19,",
-		"p5.2": "și altele.",
-		"p6": "Soluție proiectată în:",
-		"p7": "dezvoltată pro bono de:",
-		"p8": "în parteneriat cu:"
+		"p5.2": "și altele."
 	},
+	"map-title": "Unde stai?",
+	"map_intro": "Caută orașul în care locuiești pentru a afla care sunt cele mai apropiate secții de votare. Orice căutare pe harta din această platformă pentru noi înseamnă un cost suplimentar. Dacă te ajută Vot Diaspora, fă o donație oricât de mică pentru Code for Romania care a dezvoltat acest site complet pro bono.",
 	"map_hero_p1": "În curând aici vei găsi o hartă și un buton de căutare care te vor ajuta să găsești secția de votare de care aparții. Dacă Vot România te ajută, fă o",
 	"map_hero_p2": "donație oricât de mică",
 	"map_hero_p3": "pentru Code for Romania care a dezvoltat acest site complet pro bono.",
+	"map_outro": "Harta secțiilor de votare disponibilă la acest moment este harta secțiilor organizate pentru alegerile prezidențiale din 2019. Vom actualiza lista secțiilor imediat ce aceasta devine disponibilă. Data până la care Autoritatea Electorală Permanentă trebuie să transmită către Ministerul Afacerilor externe lista localităților din străinătate unde trebuie să fie înființate secții de votare este 25 septembrie 2020.",
 	"social_share": {
 		"title": "Informează-ți prietenii",
 		"text": "Distribuie aceste informații în social media pentru a ajuta cât mai mulți români să afle unde pot vota la alegerile locale din 2020, de ce documente au nevoie și alte sfaturi utile."
 	},
 	"donate_card": {
 		"title": "Susține-ne",
-		"text": "Vot România este un proiect dezvoltat pro bono de o echipă de voluntari Code for Romania. În fiecare zi, sute dintre prietenii si colegii tăi lucrează pentru a construi instrumente digitale utile pentru a ne face viața mai ușoară și pentru a digitaliza România. Ajută-ne să mergem mai departe.",
+		"text": "Vot Diaspora este un proiect dezvoltat pro-bono de o echipă de voluntari Code for Romania. În fiecare zi, sute dintre prietenii si colegii tăi lucrează pentru a construi intrumente digitale utile pentru a ne face viața mai ușoară și pentru a aduce România mai aproape de progresul tehnologic. Ajută-ne să continuăm.",
 		"button": "Donează"
 	},
 	"cookie": {

@@ -2,6 +2,8 @@
 	"donate": "Adományozz",
 	"nav_about": "Rólunk",
 	"guide_title": "Válaszd ki azt a választ ami legjobban illik a helyzetedhez",
+	"guide_into": "La alegerile parlamentare își exercită dreptul de vot în afara țării doar cetățenii români cu domiciliul sau reședința în străinătate. Află ce ai de făcut pentru a putea vota în țara în care ai domiciliu sau reședința la alegerile parlamentare din 6 decembrie 2020.",
+	"vot_romania": "Pe 27 septembrie au loc alegeri locale în România. Cetățenii care locuiesc în diaspora sau se află în diaspora în tranzit în momentul alegerilor nu pot să își exprime votul, acest lucru fiind posibil doar pentru cetățenii care se află pe teritoriul României în aria circumscripției la care este arondată adresa lor de domiciliu. Dacă ai rude în țară, atunci încurajează-i să folosească Vot România pentru a afla în ce condiții pot să voteze, de ce documente au nevoie și unde se află secția la care sunt arondați.",
 	"votersGuide": {
 		"callToAction": "Válassz egyet az alábbi opciókból",
 		"label0": "Román állampolgár vagy?",
@@ -37,7 +39,7 @@
 	},
 	"back_button": "Viszza",
 	"back_to_start_button": "Vissza az elejére",
-	"introduction": "Szeptember 27-én helyi választások vannak Romániában. A román állampolgárok és azok a más Európai Unió tagállampolgárai akiknek lakcímük vagy tartózkodási cimuk van Románia teruletén szavazhatnak polgármesterükre, helyi tanácsosokra és megyei tanácsosokra. Találd med a Vot Romania segítségével hogy hol tudsz szavazni, milyen feltételek között és melyek azok a dokumentumok amelyekre szükséged lesz.",
+	"introduction": "Pe data de 6 decembrie 2020 au loc alegerile parlamentare din România. Cetățenii români cu drept de vot care au domiciliul sau reședința în străinătate pot vota la secție sau prin corespondență. Pentru a afla care sunt pașii pe care trebuie să îi parcurgeți pentru a putea alege în cadrul acestui tur electoral, consultați ghidul de mai jos.",
 	"about": {
 		"title": "A projektröl",
 		"p1": "Szeptember 27-én helyi választások vannak Romániában. A román állampolgárok és azok a más Európai Unió tagállampolgárai akiknek lakcímük vagy tartózkodási cimuk van Románia teruletén szavazhatnak polgármesterükre, helyi tanácsosokra és megyei tanácsosokra. Találd med a Vot Romania segítségével hogy hol tudsz szavazni, milyen feltételek között és melyek azok a dokumentumok amelyekre szükséged lesz.",
@@ -52,16 +54,19 @@
 		"p7": "pro bono fejlesztés:",
 		"p8": "partnerek:"
 	},
+	"map-title": "Unde stai?",
+	"map_intro": "Caută orașul în care locuiești pentru a afla care sunt cele mai apropiate secții de votare. Orice căutare pe harta din această platformă pentru noi înseamnă un cost suplimentar. Dacă te ajută Vot Diaspora, fă o donație oricât de mică pentru Code for Romania care a dezvoltat acest site complet pro bono.",
 	"map_hero_p1": "Hamarosan itt találsz egy térképet és egy keresőt is amelyek segíteni fognak a szavazóiroda megtalálásában amelyhez tartozol. Ha Vot Romania segitett kuld egy",
 	"map_hero_p2": "bármilyen kis adományt",
 	"map_hero_p3": "a Code for Romania-nak mely pro bono fejlesztette eszt az eszközt",
+	"map_outro": "Harta secțiilor de votare disponibilă la acest moment este harta secțiilor organizate pentru alegerile prezidențiale din 2019. Vom actualiza lista secțiilor imediat ce aceasta devine disponibilă. Data până la care Autoritatea Electorală Permanentă trebuie să transmită către Ministerul Afacerilor externe lista localităților din străinătate unde trebuie să fie înființate secții de votare este 25 septembrie 2020.",
 	"social_share": {
 		"title": "Tudasd az ismerösökkel",
 		"text": "Oszd meg ezt a szociális medián hogy minél több állampolgár megtudhatsa hol tud szavazni a 2020 helyi választásokon, milyen dokumentumokra lesz szükség és más hasznos infót. "
 	},
 	"donate_card": {
 		"title": "Támogass",
-		"text": "Vot Romania egz pro bono fejlesztett projekt a Cod For Romania onkentesei által. Minden nap, több száz barátod és kollégád azon dolgozik hogy olyan digitális eszközöket építsen mely mindannyiunk életét könnyíti és digitalizálja Romániát. Segíts hogy tovább mehessünk ezen az úton.",
+		"text": "Vot Diaspora este un proiect dezvoltat pro-bono de o echipă de voluntari Code for Romania. În fiecare zi, sute dintre prietenii si colegii tăi lucrează pentru a construi intrumente digitale utile pentru a ne face viața mai ușoară și pentru a aduce România mai aproape de progresul tehnologic. Ajută-ne să continuăm.",
 		"button": "Adományozz"
 	},
 	"cookie": {
