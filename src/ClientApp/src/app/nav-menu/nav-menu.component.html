@@ -1,0 +1,25 @@
+<header class="container px-0">
+  <nav class="navbar navbar-expand-sm navbar-toggleable-sm justify-content-center justify-content-sm-end">
+      <img class="navbar-brand cursor-pointer" src="../../assets/vot_romania_home_logo.svg" width="300" height="100"
+          alt="Vot Romania"
+          [routerLink]="['/']"/>
+      <div class="navlinks d-flex align-items-center mx-auto mr-sm-0 mt-5 mt-sm-0">
+        <div class="cursor-pointer font-weight-bold mr-2 mr-sm-4" [routerLink]="['about']">
+          {{ 'nav_about' | translate }}
+        </div>
+        <div class="cursor-pointer dropdown mx-4"  dropdown>
+          <div id="language-select" dropdownToggle class="font-weight-bold" aria-controls="dropdown-basic">
+            {{ selectedLanguage$ | async }} <i class="fas fa-chevron-down"></i>
+          </div>
+          <ul id="dropdown-basic" *dropdownMenu class="dropdown-menu small" role="menu"
+              aria-labelledby="language-select">
+            <li role="menuitem" *ngFor="let language of (availableLanguages$ | async)">
+              <span class="dropdown-item" (click)="changeSelectedLanguageTo(language)"><p>{{language}}</p></span>
+            </li>
+          </ul>
+        </div>
+        <a class="btn btn-success btn-donate font-weight-bold cursor-pointer ml-2 ml-sm-4" 
+            href="https://code4.ro/ro/doneaza/" target="_blank" rel="noopener noreferrer">{{ 'donate' | translate }} </a>
+      </div>
+  </nav>
+</header>

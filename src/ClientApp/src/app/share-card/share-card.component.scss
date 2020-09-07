@@ -1,0 +1,51 @@
+.box-dark {
+  background: #352245;
+}
+
+.share-actions {
+
+  .share-cta {
+    margin: 0 10px 10px 0;
+    color: #fff;
+    text-align: center;
+    padding: 0;
+    width: 70px;
+    font-weight: 700;
+    display: inline-block;
+    height: 70px;
+    line-height: 70px;
+
+    &.fb {
+      background: #3b5998;
+    }
+
+    &.tw {
+      background: #1da1f2;
+    }
+
+    &.email {
+      background: #fff;
+      color: #352245;
+    }
+
+    &:hover,
+    &:focus {
+      background: #fc0;
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
+
+
+@media screen and (max-width: 575px) {
+  .share-actions {
+    display: flex;
+    justify-content: space-between;
+
+    .share-cta {
+      width: 31%;
+      margin: 0;
+    }
+  }
+}
