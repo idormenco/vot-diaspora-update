@@ -8,6 +8,8 @@
       <p>{{ "guide_into" | translate }}</p>
     </div>
 
+    <hr>
+
     <div class="options-list justify-content-center my-2">
       <ng-container *ngFor="let option of options$ | async">
         <ng-container *ngIf="option.options; else votingOptionTemplate">

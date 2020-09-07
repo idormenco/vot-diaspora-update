@@ -129,7 +129,6 @@ export class VotersDecisionTreeService {
         label: 'votersGuide.label0',
         options: [
           '00',
-          '01'
         ]
       },
       '1': {
@@ -137,129 +136,16 @@ export class VotersDecisionTreeService {
         label: 'votersGuide.label1',
         options: [
           '10',
-          '11'
         ]
       },
       '00': {
         id: '00',
-        label: 'votersGuide.label00',
-        options: [
-          '000'
-        ]
-      },
-      '01': {
-        id: '01',
-        label: 'votersGuide.label01',
-        options: [
-          '010',
-          '011'
-        ]
-      },
-      '000': {
-        id: '000',
-        text: 'votersGuide.label000'
-      },
-      '010': {
-        id: '010',
-        label: 'votersGuide.label010',
-        options: [
-          '0100'
-        ]
-      },
-      '0100': {
-        id: '0100',
-        text: 'votersGuide.label0100'
-      },
-      '011': {
-        id: '011',
-        label: 'votersGuide.label011',
-        options: [
-          '0110',
-          '0111'
-        ]
-      },
-      '0110': {
-        id: '0110',
-        label: 'votersGuide.label0110',
-        options: [
-          '01100'
-        ]
-      },
-      '01100': {
-        id: '01100',
-        text: 'votersGuide.label01100'
-      },
-      '0111': {
-        id: '0111',
-        label: 'votersGuide.label0111',
-        options: [
-          '01110',
-          '01111'
-        ]
-      },
-      '01110': {
-        id: '01110',
-        label: 'votersGuide.label01110',
-        options: [
-          '011100'
-        ]
-      },
-      '011100': {
-        id: '011100',
-        text: 'votersGuide.label011100'
-      },
-      '01111': {
-        id: '01111',
-        label: 'votersGuide.label01111',
-        options: [
-          '011110'
-        ]
-      },
-      '011110': {
-        id: '011110',
-        text: 'votersGuide.label011110',
+        text: 'votersGuide.label00'
       },
       '10': {
         id: '10',
-        label: 'votersGuide.label10',
-        options: [
-          '100',
-          '101'
-        ]
-      },
-      '100': {
-        id: '100',
-        label: 'votersGuide.label100',
-        options: [
-          '1000'
-        ]
-      },
-      '1000': {
-        id: '1000',
-        text: 'votersGuide.label1000'
-      },
-      '101': {
-        id: '101',
-        label: 'votersGuide.label101',
-        options: [
-          '1010'
-        ]
-      },
-      '1010': {
-        id: '1010',
-        text: 'votersGuide.label1010'
-      },
-      '11': {
-        id: '11',
-        label: 'votersGuide.label11',
-        options: [
-          '110',
-        ]
-      },
-      '110': {
-        id: '110',
-        text: 'votersGuide.label110'
-      },
+        text: 'votersGuide.label10'
+      }
     };
 
     return of(data);
