@@ -31,7 +31,10 @@
 		"p4.1": "Toate aplicațiile din ecosistemul dedicat alegerilor sunt dezvoltate pro bono de către voluntarii Code for Romania în cadrul",
 		"p4.2": "unul dintre programele prin care asociația proiectează soluții de tehnologie civică pentru probleme din șase domenii-cheie pentru societatea românească - educație, sănătate, mediu, grupuri vulnerabile, transparență și implicare civică.",
 		"p5.1": "Code for Romania este o organizație non-profit care dezvoltă pro bono soluții digitale pentru a rezolva probleme sociale. Înființată în anul 2016, Code for Romania a ajuns în prezent la o comunitate de peste 1700 de voluntari din sectorul IT care au dezvoltat zeci de aplicații web și mobile pentru România, precum cele din ecosistemul Covid-19,",
-		"p5.2": "și altele."
+		"p5.2": "și altele.",
+		"p6": "Soluție proiectată în:",
+		"p7": "dezvoltată pro bono de:",
+		"p8": "în parteneriat cu:"
 	},
 	"map-title": "Unde stai?",
 	"map_intro": "Caută orașul în care locuiești pentru a afla care sunt cele mai apropiate secții de votare. Orice căutare pe harta din această platformă pentru noi înseamnă un cost suplimentar. Dacă te ajută Vot Diaspora, fă o <a target='_blank' rel='noopener' rel='noreferrer' href='https://code4.ro/ro/doneaza/'>donație</a> oricât de mică pentru Code for Romania care a dezvoltat acest site complet pro bono.",
