@@ -99,10 +99,14 @@
 }
 
 @media screen and (max-width: 575px) {
+  .ps-list {
+    display: flex;
+  }
+
   .ps-item{
     max-width: 100%;
     margin-left: 0;
-
+    height: auto;
   }
 
   h5 {
