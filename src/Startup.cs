@@ -76,7 +76,14 @@ namespace VotRomania
                         ValidateAudience = false
                     };
                 });
-
+				
+            services.AddCors(o => o.AddPolicy("Permissive", builder =>
+            {
+                builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
+            }));
+			
             services.AddAuthorization(options =>
             {
                 options.AddPolicy("content", policy => policy.RequireClaim(ClaimTypes.NameIdentifier)
@@ -191,7 +198,8 @@ namespace VotRomania
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
-
+			app.UseCors("Permissive");
+			
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
